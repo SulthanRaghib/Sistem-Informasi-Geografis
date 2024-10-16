@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DIY Yogyakarta</name>
+    <NetworkLink>
+      <name>sig-pertemuan-04</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1Q6cLcmEcReQTtfXBVGIpu-GQFKkQpSs&lid=u2ZtI2iumOs]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
